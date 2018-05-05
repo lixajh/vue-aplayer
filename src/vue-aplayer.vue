@@ -896,7 +896,7 @@
         padding: 14px 7px 0 10px;
         height: $aplayer-height;
         box-sizing: border-box;
-        background: #fff;
+        // background: #fff;
 
         .aplayer-music {
           flex-grow: 1;
